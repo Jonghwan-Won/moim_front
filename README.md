@@ -24,6 +24,7 @@
 
 <pre>
 “ 생활 공간 대여 플랫폼 MoiM ! ”
+
 호스트는 자신의 소중한 공간을 누구에게나 공유할 수 있고,
 게스트는 원하는 공간에서 필요한 시간만큼 예약할 수 있는 생활 공간 대여 플랫폼입니다 :)
 </pre>
@@ -34,11 +35,11 @@
 - 개발 언어 : Java, Javascript
 - 개발 라이브러리 : React
 - 개발 프레임워크 : Spring Boot
-- 배포 환경 : Amazon S3, CloudFront, Github Action
+- 배포 환경 : Amazon S3
 - 협업 툴 : Git / Notion / Figma
 
 ## ✨ 페이지 별 기능
-</br>
+
 - **`메인`**
   </br>
   사람들이 공유한 장소들을 둘러볼 수 있습니다.
@@ -101,13 +102,10 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/axios-007CE2?style=for-the-badge&logo=axios&logoColor=white">
-<img src="https://img.shields.io/badge/reactrouterdom-CA4245?style=for-the-badge&logo=reactrouterdom&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> 
-<img src="https://img.shields.io/badge/route53-F7A81B?style=for-the-badge&logo=route53&logoColor=white">
-<img src="https://img.shields.io/badge/cloudfront-04ACE6?style=for-the-badge&logo=cloudfront&logoColor=white">
 <br>
 </p>
 
@@ -115,11 +113,11 @@
 
 <p>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/googleanalytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <br>
 </p>
 
